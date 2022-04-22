@@ -7,8 +7,8 @@ With code, you can create, borrow, and build whatever you want.
 Plus, code isn't material, so it doesn't even hurt when you [step on it](https://i.imgflip.com/4u5bsf.jpg)! [<s>Until you find a bug 😬</s>](https://devhumor.com/content/uploads/images/February2016/DevBug.png)
 
 #### -CS courses I'm currently taking at UCI
-*CS 141: Programming Languages*  
-*CS 161: Design and Analysis of Algorithms*
+*CS 190: Deep Learning for Medical Imaging*  
+*CS 122d: NoSQL Databases*
 
 #### -Let's connect!
 [**LinkedIn**](https://www.linkedin.com/in/shaun-chiang/)
